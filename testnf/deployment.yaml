@@ -4,7 +4,7 @@ metadata: # kpt-merge: example/testnf-du-large
   labels:
     name: testnf-du-large
   name: testnf-du-large
-  namespace: example
+  namespace: testnf
   annotations:
     internal.kpt.dev/upstream-identifier: 'apps|Deployment|example|testnf-du-large'
 spec:

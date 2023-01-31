@@ -4,6 +4,7 @@ metadata: # kpt-merge: /testnf-du-large
   name: testnf-du-large
   annotations:
     internal.kpt.dev/upstream-identifier: '|Service|default|testnf-du-large'
+  namespace: testnf
 spec:
   type: ClusterIP
   ports:
